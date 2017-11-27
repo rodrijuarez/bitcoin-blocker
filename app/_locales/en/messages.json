@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "bitcoin blocker",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Bitcoin blocker",
+    "description": "The description of the application"
+  }
+}
